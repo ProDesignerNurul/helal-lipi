@@ -1,0 +1,582 @@
+[
+  {
+    "id": 13,
+    "fontName": "Playfair Display",
+    "fontDetails": {
+      "type": "সেরিফ",
+      "designer": "ক্লাউডিয়া শেফার",
+      "foundry": "ডিসাইনিং টাইপ",
+      "releaseYear": 2011
+    },
+    "fontFeatures": [
+      "উচ্চ কনট্রাস্টের সিরিফ",
+      "শিরোনামের জন্য উপযুক্ত",
+      "স্টাইলিশ ও আধুনিক লুক",
+      "প্রিন্ট এবং ওয়েব উভয়েই ভালো"
+    ],
+    "fontCategory": "ডিসপ্লে",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৯",
+    "useCases": ["শিরোনাম", "ব্লগ পোস্ট", "পোস্টার", "ব্র্যান্ডিং"],
+    "monthlyPrice": "৳২০০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "ক্লাউডিয়া শেফার",
+      "authorImage": "https://example.com/images/playfair-author.png",
+      "authorPassion": "এলিগ্যান্ট টাইপফেস ডিজাইন",
+      "authorBio": "ক্লাউডিয়া শেফার Playfair Display ডিজাইন করেছেন, যা শিরোনাম ও পোস্টারের জন্য উপযুক্ত।"
+    }
+  },
+  {
+    "id": 14,
+    "fontName": "Oswald",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "ভারেন্ডা ফ্রিক",
+      "foundry": "গুগল",
+      "releaseYear": 2011
+    },
+    "fontFeatures": [
+      "কম্প্যাক্ট ডিজাইন",
+      "সরাসরি এবং স্পষ্ট অক্ষররূপ",
+      "বড় শিরোনামের জন্য উপযুক্ত",
+      "ওয়েব এবং প্রিন্টে ভালো"
+    ],
+    "fontCategory": "ডিসপ্লে",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৯.০",
+    "useCases": ["হেডলাইন", "পোস্টার", "ওয়েবশিরোনাম", "ব্র্যান্ডিং"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "ভারেন্ডা ফ্রিক",
+      "authorImage": "https://example.com/images/oswald-author.png",
+      "authorPassion": "ক্লিয়ার এবং শক্তিশালী স্যান-সেরিফ ডিজাইন",
+      "authorBio": "ভারেন্ডা ফ্রিক Oswald ডিজাইন করেছেন, যা স্পষ্ট ও প্রিন্ট/ওয়েব শিরোনামের জন্য উপযুক্ত।"
+    }
+  },
+  {
+    "id": 15,
+    "fontName": "Muli",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "বিষ্ণু প্যাটেল",
+      "foundry": "গুগল",
+      "releaseYear": 2015
+    },
+    "fontFeatures": [
+      "মিনিমালিস্ট ডিজাইন",
+      "পাঠযোগ্যতা ভালো",
+      "মাল্টি-ওজন সমর্থন",
+      "ওয়েব এবং অ্যাপসের জন্য উপযুক্ত"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৭",
+    "useCases": ["ওয়েব টেক্সট", "মোবাইল অ্যাপস", "UI ডিজাইন", "ডকুমেন্ট"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "বিষ্ণু প্যাটেল",
+      "authorImage": "https://example.com/images/muli-author.png",
+      "authorPassion": "স্যান-সেরিফ ডিজাইন",
+      "authorBio": "বিষ্ণু প্যাটেল Muli ডিজাইন করেছেন, যা ইউজার ইন্টারফেস ও ওয়েবসাইটের জন্য আদর্শ।"
+    }
+  },
+  {
+    "id": 16,
+    "fontName": "Lobster",
+    "fontDetails": {
+      "type": "সানস্ক্রিপ্ট",
+      "designer": "পাবলো ইফিমোভ",
+      "foundry": "ডিসাইনিং টাইপ",
+      "releaseYear": 2010
+    },
+    "fontFeatures": [
+      "ফ্লোয়িং লেটার স্টাইল",
+      "বোল্ড এবং সুন্দর কার্ভ",
+      "শিরোনাম বা লোগোর জন্য উপযুক্ত",
+      "ওয়েব ও প্রিন্টে ব্যবহারযোগ্য"
+    ],
+    "fontCategory": "ডিসপ্লে",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৯.৩",
+    "useCases": ["লোগো", "শিরোনাম", "পোস্টার", "ব্র্যান্ডিং"],
+    "monthlyPrice": "৳১০০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "পাবলো ইফিমোভ",
+      "authorImage": "https://example.com/images/lobster-author.png",
+      "authorPassion": "ফ্লোয়িং এবং আকর্ষণীয় হ্যান্ডলেটার স্টাইল",
+      "authorBio": "পাবলো ইফিমোভ Lobster ফন্ট ডিজাইন করেছেন, যা লোগো ও শিরোনামের জন্য জনপ্রিয়।"
+    }
+  },
+  {
+    "id": 17,
+    "fontName": "Nunito",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "ভেরোনিকা দো",
+      "foundry": "গুগল",
+      "releaseYear": 2013
+    },
+    "fontFeatures": [
+      "রাউন্ডেড লেটারস্টাইল",
+      "পাঠযোগ্যতা ভালো",
+      "বিভিন্ন ওজন সমর্থন",
+      "ওয়েব এবং অ্যাপের জন্য আদর্শ"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৮",
+    "useCases": ["ওয়েবসাইট", "মোবাইল অ্যাপস", "UI টেক্সট", "ডকুমেন্ট"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "ভেরোনিকা দো",
+      "authorImage": "https://example.com/images/nunito-author.png",
+      "authorPassion": "রাউন্ডেড, বন্ধুত্বপূর্ণ টাইপফেস ডিজাইন",
+      "authorBio": "ভেরোনিকা দো Nunito তৈরি করেছেন, যা ব্যবহারকারীর অভিজ্ঞতা উন্নত করে।"
+    }
+  },
+  {
+    "id": 18,
+    "fontName": "Cabin",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "ডেভিড বোস্টিক",
+      "foundry": "গুগল",
+      "releaseYear": 2011
+    },
+    "fontFeatures": [
+      "মডার্ন জিওমেট্রিক ডিজাইন",
+      "পাঠযোগ্য এবং পরিষ্কার",
+      "বহু ওজন সমর্থন",
+      "ওয়েব ও প্রিন্টে ব্যবহারযোগ্য"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৬",
+    "useCases": ["ওয়েব টেক্সট", "ডকুমেন্ট", "UI", "প্রেজেন্টেশন"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "ডেভিড বোস্টিক",
+      "authorImage": "https://example.com/images/cabin-author.png",
+      "authorPassion": "মডার্ন এবং পরিষ্কার স্যান-সেরিফ ডিজাইন",
+      "authorBio": "ডেভিড বোস্টিক Cabin ডিজাইন করেছেন, যা ওয়েব এবং প্রিন্ট উভয়ের জন্য ভালো।"
+    }
+  },
+  {
+    "id": 19,
+    "fontName": "Bebas Neue",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "রিহার্ড ফার্নান্দেস",
+      "foundry": "ডিসাইনিং টাইপ",
+      "releaseYear": 2010
+    },
+    "fontFeatures": [
+      "উচ্চ ও বোল্ড হেডলাইন ফন্ট",
+      "কম্প্যাক্ট এবং শক্তিশালী লেটারস্টাইল",
+      "শিরোনাম ও পোস্টারের জন্য উপযুক্ত",
+      "ওয়েব এবং প্রিন্ট উভয়েই ভালো"
+    ],
+    "fontCategory": "ডিসপ্লে",
+    "license": "ওপেন সোর্স",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৯.২",
+    "useCases": ["শিরোনাম", "পোস্টার", "লোগো", "ব্র্যান্ডিং"],
+    "monthlyPrice": "৳২০০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "রিহার্ড ফার্নান্দেস",
+      "authorImage": "https://example.com/images/bebas-author.png",
+      "authorPassion": "উচ্চ কনট্রাস্ট এবং শক্তিশালী ডিসপ্লে ফন্ট ডিজাইন",
+      "authorBio": "রিহার্ড ফার্নান্দেস Bebas Neue ডিজাইন করেছেন, যা হেডলাইন ও ব্র্যান্ডিংয়ে ব্যবহৃত হয়।"
+    }
+  },
+  {
+    "id": 20,
+    "fontName": "Roboto Slab",
+    "fontDetails": {
+      "type": "সেরিফ",
+      "designer": "ক্রিশ্চিয়ান রবার্টসন",
+      "foundry": "গুগল",
+      "releaseYear": 2011
+    },
+    "fontFeatures": [
+      "মোডার্ন এবং শক্তিশালী সিরিফ ফন্ট",
+      "বিভিন্ন ওজন উপলব্ধ",
+      "শিরোনাম ও টেক্সটের জন্য ব্যবহারযোগ্য",
+      "ওয়েব ও মোবাইল উভয়ের জন্য উপযুক্ত"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (Apache License 2.0)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৯.০",
+    "useCases": ["হেডলাইন", "ব্লগ পোস্ট", "ওয়েব টেক্সট", "ডকুমেন্ট"],
+    "monthlyPrice": "৳১৫০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "ক্রিশ্চিয়ান রবার্টসন",
+      "authorImage": "https://example.com/images/roboto-slab-author.png",
+      "authorPassion": "মোডার্ন স্যান-সেরিফ ও সিরিফ টাইপফেস ডিজাইন",
+      "authorBio": "ক্রিশ্চিয়ান রবার্টসন Roboto Slab ডিজাইন করেছেন, যা হেডলাইন ও টেক্সটের জন্য উপযুক্ত।"
+    }
+  },
+  {
+    "id": 21,
+    "fontName": "Arimo",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "ম্যাট ম্যাকইনার্নি",
+      "foundry": "গুগল",
+      "releaseYear": 2010
+    },
+    "fontFeatures": [
+      "পাঠযোগ্য এবং হালকা স্যান-সেরিফ",
+      "বিভিন্ন ওজন সমর্থন",
+      "ওয়েব ও প্রিন্ট উভয়ের জন্য ভালো",
+      "UI ও টেক্সটের জন্য উপযুক্ত"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৬",
+    "useCases": ["ওয়েবসাইট", "ডকুমেন্ট", "UI", "প্রেজেন্টেশন"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "ম্যাট ম্যাকইনার্নি",
+      "authorImage": "https://example.com/images/arimo-author.png",
+      "authorPassion": "পাঠযোগ্য ও ব্যবহার বান্ধব টাইপফেস ডিজাইন",
+      "authorBio": "ম্যাট ম্যাকইনার্নি Arimo ডিজাইন করেছেন, যা ওয়েব ও প্রিন্টে ভালো কাজ করে।"
+    }
+  },
+  {
+    "id": 22,
+    "fontName": "PT Sans Narrow",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "আলেকজান্দ্রা কোরোলকোভা, ওলগা উম্পেলেভা",
+      "foundry": "ParaType",
+      "releaseYear": 2010
+    },
+    "fontFeatures": [
+      "কমপ্যাক্ট এবং সরু স্যান-সেরিফ",
+      "বড় এবং ছোট টেক্সটের জন্য উপযুক্ত",
+      "বহু ভাষা সমর্থন",
+      "ওয়েব ও প্রিন্টে ব্যবহারযোগ্য"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৪",
+    "useCases": ["ব্লগ পোস্ট", "ওয়েব টেক্সট", "ডকুমেন্ট", "প্রেজেন্টেশন"],
+    "monthlyPrice": "৳১৫০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "আলেকজান্দ্রা কোরোলকোভা, ওলগা উম্পেলেভা",
+      "authorImage": "https://example.com/images/pt-sans-narrow-author.png",
+      "authorPassion": "সরু এবং পাঠযোগ্য স্যান-সেরিফ ডিজাইন",
+      "authorBio": "আলেকজান্দ্রা ও ওলগা PT Sans Narrow তৈরি করেছেন, যা টেক্সট এবং UI এর জন্য উপযুক্ত।"
+    }
+  },
+  {
+    "id": 23,
+    "fontName": "Comfortaa",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "জেহান জারমান",
+      "foundry": "গুগল",
+      "releaseYear": 2010
+    },
+    "fontFeatures": [
+      "রাউন্ডেড এবং নরম লেটারস্টাইল",
+      "পাঠযোগ্য এবং বন্ধুত্বপূর্ণ",
+      "বিভিন্ন ওজন সমর্থন",
+      "ওয়েব এবং UI এর জন্য উপযুক্ত"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৮",
+    "useCases": ["ওয়েবসাইট", "অ্যাপস", "UI ডিজাইন", "ডকুমেন্ট"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "জেহান জারমান",
+      "authorImage": "https://example.com/images/comfortaa-author.png",
+      "authorPassion": "রাউন্ডেড এবং বন্ধুত্বপূর্ণ টাইপফেস ডিজাইন",
+      "authorBio": "জেহান জারমান Comfortaa তৈরি করেছেন, যা UI এবং ওয়েবের জন্য উপযুক্ত।"
+    }
+  },
+  {
+    "id": 24,
+    "fontName": "Dancing Script",
+    "fontDetails": {
+      "type": "হ্যান্ডলেটার",
+      "designer": "পাবলো ইফিমোভ",
+      "foundry": "গুগল",
+      "releaseYear": 2011
+    },
+    "fontFeatures": [
+      "ফ্লোয়িং এবং কার্ভড লেটারস্টাইল",
+      "শিরোনাম ও লোগোর জন্য উপযুক্ত",
+      "আকর্ষণীয় ডিজাইন",
+      "ওয়েব এবং প্রিন্টে ব্যবহারযোগ্য"
+    ],
+    "fontCategory": "ডিসপ্লে",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৯.১",
+    "useCases": ["লোগো", "শিরোনাম", "পোস্টার", "ব্র্যান্ডিং"],
+    "monthlyPrice": "৳১৫০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "পাবলো ইফিমোভ",
+      "authorImage": "https://example.com/images/dancing-script-author.png",
+      "authorPassion": "ফ্লোয়িং হ্যান্ডলেটার ডিজাইন",
+      "authorBio": "পাবলো ইফিমোভ Dancing Script ডিজাইন করেছেন, যা শিরোনাম এবং লোগোর জন্য জনপ্রিয়।"
+    }
+  },
+  {
+    "id": 25,
+    "fontName": "Indie Flower",
+    "fontDetails": {
+      "type": "হ্যান্ডলেটার",
+      "designer": "নকু শেফার",
+      "foundry": "গুগল",
+      "releaseYear": 2012
+    },
+    "fontFeatures": [
+      "নরম এবং হাতে লেখা স্টাইল",
+      "বন্ধুত্বপূর্ণ লুক",
+      "ছোট শিরোনাম ও UI জন্য উপযুক্ত",
+      "ওয়েব এবং প্রিন্টে ব্যবহারযোগ্য"
+    ],
+    "fontCategory": "ডিসপ্লে",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৭",
+    "useCases": ["শিরোনাম", "UI", "ডায়েরি", "পোস্টার"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "নকু শেফার",
+      "authorImage": "https://example.com/images/indie-flower-author.png",
+      "authorPassion": "হ্যান্ডলেটার এবং বন্ধুত্বপূর্ণ টাইপফেস ডিজাইন",
+      "authorBio": "নকু শেফার Indie Flower তৈরি করেছেন, যা ছোট শিরোনাম এবং UI-তে ব্যবহারযোগ্য।"
+    }
+  },
+  {
+    "id": 26,
+    "fontName": "Pacifico",
+    "fontDetails": {
+      "type": "হ্যান্ডলেটার",
+      "designer": "ভেরেন্ডা ফ্রিক",
+      "foundry": "গুগল",
+      "releaseYear": 2011
+    },
+    "fontFeatures": [
+      "ফ্লোয়িং কার্ভড লেটারস্টাইল",
+      "শিরোনাম, লোগো ও পোস্টারের জন্য উপযুক্ত",
+      "বোল্ড এবং আকর্ষণীয়",
+      "ওয়েব এবং প্রিন্টে ব্যবহারযোগ্য"
+    ],
+    "fontCategory": "ডিসপ্লে",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৯.২",
+    "useCases": ["লোগো", "শিরোনাম", "পোস্টার", "ব্র্যান্ডিং"],
+    "monthlyPrice": "৳২০০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "ভেরেন্ডা ফ্রিক",
+      "authorImage": "https://example.com/images/pacifico-author.png",
+      "authorPassion": "আকর্ষণীয় এবং ফ্লোয়িং হ্যান্ডলেটার ডিজাইন",
+      "authorBio": "ভেরেন্ডা ফ্রিক Pacifico ডিজাইন করেছেন, যা শিরোনাম ও লোগোর জন্য জনপ্রিয়।"
+    }
+  },
+  {
+    "id": 27,
+    "fontName": "Quicksand",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "অ্যান্ড্রু পাওয়েল",
+      "foundry": "গুগল",
+      "releaseYear": 2008
+    },
+    "fontFeatures": [
+      "রাউন্ডেড এবং নরম লেটারস্টাইল",
+      "পাঠযোগ্য এবং মিনিমালিস্ট",
+      "বিভিন্ন ওজন সমর্থন",
+      "ওয়েব এবং UI জন্য উপযুক্ত"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৬",
+    "useCases": ["ওয়েবসাইট", "মোবাইল অ্যাপস", "UI", "ডকুমেন্ট"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "অ্যান্ড্রু পাওয়েল",
+      "authorImage": "https://example.com/images/quicksand-author.png",
+      "authorPassion": "নরম এবং বন্ধুত্বপূর্ণ স্যান-সেরিফ ডিজাইন",
+      "authorBio": "অ্যান্ড্রু পাওয়েল Quicksand তৈরি করেছেন, যা UI ও ওয়েবের জন্য আদর্শ।"
+    }
+  },
+  {
+    "id": 28,
+    "fontName": "Josefin Sans",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "সেজিয়ার ফন্টেস",
+      "foundry": "গুগল",
+      "releaseYear": 2010
+    },
+    "fontFeatures": [
+      "মডার্ন জিওমেট্রিক লেটারস্টাইল",
+      "উচ্চ পাঠযোগ্যতা",
+      "বিভিন্ন ওজন সমর্থন",
+      "ওয়েব এবং প্রিন্ট উভয়ের জন্য ব্যবহারযোগ্য"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৭",
+    "useCases": ["ওয়েবসাইট", "ডকুমেন্ট", "UI", "প্রেজেন্টেশন"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "সেজিয়ার ফন্টেস",
+      "authorImage": "https://example.com/images/josefin-sans-author.png",
+      "authorPassion": "মডার্ন এবং জিওমেট্রিক স্যান-সেরিফ ডিজাইন",
+      "authorBio": "সেজিয়ার ফন্টেস Josefin Sans তৈরি করেছেন, যা ওয়েব ও প্রিন্ট উভয়ের জন্য উপযুক্ত।"
+    }
+  },
+  {
+    "id": 29,
+    "fontName": "PT Mono",
+    "fontDetails": {
+      "type": "মোনোস্পেস",
+      "designer": "আলেকজান্দ্রা কোরোলকোভা",
+      "foundry": "ParaType",
+      "releaseYear": 2010
+    },
+    "fontFeatures": [
+      "মোনোস্পেস স্টাইল",
+      "কোডিং এবং টেকনোলজি কাজে উপযুক্ত",
+      "পরিষ্কার অক্ষররূপ",
+      "ওয়েব এবং টার্মিনাল সমর্থন"
+    ],
+    "fontCategory": "কোডিং",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৫",
+    "useCases": ["কোড এডিটর", "টার্মিনাল", "প্রোগ্রামিং", "ডকুমেন্ট"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "আলেকজান্দ্রা কোরোলকোভা",
+      "authorImage": "https://example.com/images/pt-mono-author.png",
+      "authorPassion": "মোনোস্পেস এবং কোডিং ফ্রেন্ডলি ডিজাইন",
+      "authorBio": "আলেকজান্দ্রা কোরোলকোভা PT Mono তৈরি করেছেন, যা প্রোগ্রামিং ও টার্মিনালে ব্যবহৃত হয়।"
+    }
+  },
+  {
+    "id": 30,
+    "fontName": "Varela Round",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "পাবলো ইফিমোভ",
+      "foundry": "গুগল",
+      "releaseYear": 2012
+    },
+    "fontFeatures": [
+      "রাউন্ডেড লেটারস্টাইল",
+      "পাঠযোগ্য এবং বন্ধুত্বপূর্ণ",
+      "ওয়েব এবং অ্যাপের জন্য উপযুক্ত",
+      "বিভিন্ন ওজন সমর্থন"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৬",
+    "useCases": ["ওয়েবসাইট", "মোবাইল অ্যাপস", "UI", "ডকুমেন্ট"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "পাবলো ইফিমোভ",
+      "authorImage": "https://example.com/images/varela-round-author.png",
+      "authorPassion": "রাউন্ডেড এবং বন্ধুত্বপূর্ণ টাইপফেস ডিজাইন",
+      "authorBio": "পাবলো ইফিমোভ Varela Round তৈরি করেছেন, যা UI ও ওয়েবের জন্য আদর্শ।"
+    }
+  },
+  {
+    "id": 31,
+    "fontName": "Exo 2",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "পাবলো ইফিমোভ",
+      "foundry": "গুগল",
+      "releaseYear": 2015
+    },
+    "fontFeatures": [
+      "মডার্ন এবং জিওমেট্রিক ডিজাইন",
+      "বিভিন্ন ওজন সমর্থন",
+      "ওয়েব, UI এবং মোবাইল অ্যাপের জন্য উপযুক্ত",
+      "স্পষ্ট এবং পরিষ্কার অক্ষররূপ"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৯",
+    "useCases": ["ওয়েবসাইট", "মোবাইল অ্যাপস", "UI", "ডকুমেন্ট"],
+    "monthlyPrice": "৳১৫০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "পাবলো ইফিমোভ",
+      "authorImage": "https://example.com/images/exo2-author.png",
+      "authorPassion": "মডার্ন এবং জিওমেট্রিক টাইপফেস ডিজাইন",
+      "authorBio": "পাবলো ইফিমোভ Exo 2 তৈরি করেছেন, যা UI ও মোবাইল অ্যাপের জন্য উপযুক্ত।"
+    }
+  },
+  {
+    "id": 32,
+    "fontName": "Mukta",
+    "fontDetails": {
+      "type": "স্যান-সেরিফ",
+      "designer": "সানজয় গোয়েল",
+      "foundry": "গুগল",
+      "releaseYear": 2013
+    },
+    "fontFeatures": [
+      "মাল্টি-ল্যাঙ্গুয়েজ সাপোর্ট",
+      "পাঠযোগ্য এবং নরম লেটারস্টাইল",
+      "ওয়েব এবং UI-তে ব্যবহারযোগ্য",
+      "বিভিন্ন ওজন সমর্থন"
+    ],
+    "fontCategory": "টেক্সট",
+    "license": "ওপেন সোর্স (SIL Open Font License)",
+    "fileFormats": ["TTF", "OTF", "WOFF", "WOFF2"],
+    "popularity": "৮.৮",
+    "useCases": ["ওয়েবসাইট", "অ্যাপস", "UI", "ডকুমেন্ট"],
+    "monthlyPrice": "৳০",
+    "plan": "প্রিমিয়াম",
+    "authorInfo": {
+      "authorName": "সানজয় গোয়েল",
+      "authorImage": "https://example.com/images/mukta-author.png",
+      "authorPassion": "পাঠযোগ্য টাইপফেস ডিজাইন",
+      "authorBio": "সানজয় গোয়েল Mukta তৈরি করেছেন, যা বহুভাষিক ওয়েব ও UI এর জন্য আদর্শ।"
+    }
+  }
+]
